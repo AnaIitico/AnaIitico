@@ -1,0 +1,5 @@
+- 👋🏼 Hi, I’m @AnaIitico
+- 👀 I’m interested in DeFi and Smart Contracts
+- 📖 I’m currently learning Javascript and Python
+- 🤝🏼 I’m looking to collaborate on Blockchain Dev
+- 📫 I can be reached via message on Github
